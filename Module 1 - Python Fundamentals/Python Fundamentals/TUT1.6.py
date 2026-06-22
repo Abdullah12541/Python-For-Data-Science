@@ -1,0 +1,6 @@
+name = input("Enter your name : ")
+age = int(input("Enter your age : "))
+university = input("Enter your University name : ")
+print(f"My name is {name}.")
+print(f"My age is {age} years.")
+print(f"I study in {university}.")
