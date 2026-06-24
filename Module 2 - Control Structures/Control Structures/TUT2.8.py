@@ -1,7 +1,7 @@
 username = input("Enter Username : ")
-passward = int(input("Enter Passward : "))
+password = int(input("Enter Passward : "))
 
-if username == "Abdullah" and passward == 52639 :
+if username == "Abdullah" and password == 52639 :
     print(f"Login Successful.")
 else :
     print(f"Login Denied.")
