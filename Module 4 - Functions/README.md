@@ -45,8 +45,3 @@
 - Multiplication Table Function
 - Factorial Function
 
-### 8. Mini Projects
-- Calculator
-- Student Grade Calculator
-- Unit Converter
-- Menu-Driven Programs
