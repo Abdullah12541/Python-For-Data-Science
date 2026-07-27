@@ -2,7 +2,7 @@
 
 ## Overview
 
-This repository contains my work for **Module 5: Python Data Structures** as part of my Python for Data Science learning journey. In this module, I studied and practiced Python's four fundamental data structures:
+ **Module 5: Python Data Structures** as part of my Python for Data Science learning journey. In this module, I studied and practiced Python's four fundamental data structures:
 
 * Lists
 * Tuples
