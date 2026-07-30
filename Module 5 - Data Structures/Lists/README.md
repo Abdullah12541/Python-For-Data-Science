@@ -1,1 +1,2 @@
 This list folder covers all the important concepts along theory + coding.
+It also contains a mini project named SSA(Sales Statistics Analyzer). The mini project aimed to practice lists ,functions, and Loops. It asks the user to enter the number of months sales he/she wants to analyze. It takes the amount of sales of different months and perform different operations like calculating the total sales , average sales, highest  sale in a month and lowest sale.
