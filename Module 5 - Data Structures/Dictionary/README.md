@@ -100,3 +100,40 @@ detections = {
         "confidence": 0.91
     }
 }
+## 🚀 Final Mini Project — ML Model Performance Analyzer
+
+As the final practical project for the Dictionary topic, I built a compact **ML Model Performance Analyzer** using core Python.
+
+The project simulates a simple system for storing and analyzing machine learning model evaluation metrics such as **Accuracy, Precision, Recall, and F1-Score**.
+
+### 🎯 Objective
+
+The objective is to apply Python dictionaries and related data-processing concepts to a practical Machine Learning-oriented problem.
+
+The project demonstrates how structured model evaluation data can be stored, traversed, filtered, aggregated, and compared using core Python.
+
+### 📊 Data Structure
+
+The model results are stored using nested dictionaries:
+
+```python
+models = {
+    "Random Forest": {
+        "accuracy": 0.92,
+        "precision": 0.90,
+        "recall": 0.88,
+        "f1_score": 0.89
+    },
+    "Logistic Regression": {
+        "accuracy": 0.87,
+        "precision": 0.85,
+        "recall": 0.84,
+        "f1_score": 0.84
+    },
+    "SVM": {
+        "accuracy": 0.94,
+        "precision": 0.93,
+        "recall": 0.91,
+        "f1_score": 0.92
+    }
+}
